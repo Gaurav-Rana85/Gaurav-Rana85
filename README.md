@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br>🎓 B.Tech Student | 1st Year<br>📍 Pursuing my degree in The NorthCap University <br><br>🌱 Currently Learning<br>Programming languages like Python, C, and Java<br>Data Structures & Algorithms (DSA)<br>Web Development (HTML, CSS, JavaScript)<br>🤝 Looking to Collaborate On<br>Open-source projects<br>Web development and software engineering<br>💡 Fun Fact<br>I love exploring new technologies and building cool projects in my free time!
+🚀 About Me<br>🎓 B.Tech Student | 3rd Year<br>📍 Pursuing my degree in The NorthCap University <br><br>🌱 Currently Learning<br>Programming languages like Python, C, and Java<br>Data Structures & Algorithms (DSA)<br>Web Development (HTML, CSS, JavaScript)<br>🤝 Looking to Collaborate On<br>Open-source projects<br>Web development and software engineering<br>💡 Fun Fact<br>I love exploring new technologies and building cool projects in my free time!
 
 
 ## 🌐 Socials:
